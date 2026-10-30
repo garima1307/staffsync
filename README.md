@@ -1,5 +1,9 @@
 # StaffSync – Modern Human Resource Management Solution
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available%20Now-brightgreen?style=for-the-badge&logo=github)](https://garima1307.github.io/staffsync/)
+
+🔗 **Live Interactive Demo**: **[https://garima1307.github.io/staffsync/](https://garima1307.github.io/staffsync/)**
+
 StaffSync is a comprehensive web-based Human Resource Management (HRM) application built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). It streamlines and automates core HR processes with distinct roles and access levels for **HR personnel, managers, and employees**, ensuring efficient management and transparency across all operations.
 
 ---
